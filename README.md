@@ -23,7 +23,7 @@ You can subscribe this channel if you find it helpful.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VannYa1212)](https://github.com/prabinmagar/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vannya1212\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vannya1212\&layout=pie)](https://github-readme-stats.vercel.app/api/top-langs/?username=vannya1212\&layout=pie)
 
 
 </p>
