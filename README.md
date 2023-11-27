@@ -36,9 +36,9 @@ You can subscribe this channel if you find it helpful.
  
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vannya1212&langs_count=10&show_icons=true&locale=en&theme=radical" alt="hyatmyat4" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vannya1212&show_icons=true&locale=en&theme=radical" alt="hyatmyat4" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vannya1212&show_icons=true&locale=en&theme=radical" alt="hyatmyat4" /></p>-->
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vannya1212&theme=radical" alt="hyatmyat4" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vannya1212&theme=radical" alt="hyatmyat4" /></p>-->
  
 
 
