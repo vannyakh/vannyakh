@@ -25,13 +25,6 @@ I'm **VANNYA**, a passionate Frontend Developer and content creator. I create Yo
 
 ---
 
-### 📫 Reach Me
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@vannyakh)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/VANNYAOfficial1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vann-ya-899004267/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sovansoriya.sovansoriya)
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -40,18 +33,6 @@ I'm **VANNYA**, a passionate Frontend Developer and content creator. I create Yo
 | HTML · CSS · JavaScript | Node.js · Express | Git · GitHub | Java · Python |
 | React.js · Vue.js | Firebase · MongoDB | VS Code · Docker | C · C++ · C# |
 | Tailwind · Bootstrap · Sass | Flask · Django · Redis | Postman · AWS | Go · Swift · Linux |
-
----
-
-### 📊 GitHub Stats
-
-![VANNYA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vannyakh&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vannyakh&layout=compact&theme=radical)
-
----
-
-### 🏆 Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app?username=vannyakh&margin-w=16&margin-h=16&rank=-C,-B)](https://github.com/vannyakh)
 
 ---
 
@@ -91,6 +72,15 @@ JavaScript    58 mins               █░░░░░░░░░░░░░�
 - ⭐ Star my GitHub repositories
 - 📺 Subscribe to my [YouTube Channel](https://www.youtube.com/@vannyakh)
 - 🔁 Share my work with others
+
+---
+
+
+### 📫 Reach Me
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@vannyakh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/VANNYAOfficial1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vann-ya-899004267/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/sovansoriya.sovansoriya)
 
 ---
 
