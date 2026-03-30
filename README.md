@@ -9,13 +9,6 @@
 </p>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vannyakh/vannyakh/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vannyakh/vannyakh/raw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/vannyakh/vannyakh/tree/output/github-snake.svg" />
-</picture>
-
----
 
 ### 👋 Hi there!
 I'm **VANNYA**, a passionate Frontend Developer and content creator. I create YouTube videos on **Frontend Web Development** to help others learn and grow in tech.  
